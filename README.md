@@ -16,4 +16,4 @@ $ cp Django_5_PDF_Certificate_Generator/settings.py_example Django_5_PDF_Certifi
 $ python manage.py runserver
 ```
 
-
+## Happy Learning
