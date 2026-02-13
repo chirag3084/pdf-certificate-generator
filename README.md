@@ -16,7 +16,4 @@ $ cp Django_5_PDF_Certificate_Generator/settings.py_example Django_5_PDF_Certifi
 $ python manage.py runserver
 ```
 
-## Test the project:
 
-Open your browser to http://127.0.0.1:8000 and you'll see the Django welcome
-page 🚀.
