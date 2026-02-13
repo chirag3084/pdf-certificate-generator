@@ -1,4 +1,4 @@
-# Django 5 PDF Certificate Generator
+# Django PDF Certificate Generator
 
 ## Requirements:
 ```
